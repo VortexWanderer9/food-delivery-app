@@ -247,7 +247,7 @@ export default function Footer() {
           align={{ base: 'center', md: 'center' }}
         >
           <Text>
-            © {new Date().getFullYear()} FoodieHub. Made <Icon as={FaHeart} color="red.500" /> by keshav
+            © {new Date().getFullYear()} FoodieHub. Made <Icon as={FaHeart} color="red.500" />
           </Text>
           <Stack direction={'row'} spacing={6}>
             <Link as={RouterLink} to="/terms" color="gray.500" _hover={{ color: 'brand.500' }}>
