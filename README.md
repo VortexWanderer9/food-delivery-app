@@ -35,7 +35,7 @@ A modern, responsive food delivery web application built with React, TypeScript,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/food-delivery.git
+   git clone https://github.com/VortexWanderer9/food-delivery.git
    cd food-delivery
    ```
 
